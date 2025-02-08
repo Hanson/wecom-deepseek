@@ -11,6 +11,9 @@
 ## 运行
 `git clone` 后直接 `go run main.go`
 
+## 其他资料
+* 本地部署 deepseek （加工中）
+
 ## 效果示例
 ![49a8163c9674eb3ecc0d2e143294a1b](https://github.com/user-attachments/assets/b61b49c8-5b57-49b1-833b-3938fd3b4d75)
 
