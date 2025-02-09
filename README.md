@@ -15,7 +15,8 @@
 * [本地部署 deepseek](https://juhexbot.feishu.cn/docx/XAeidarGRoknEaxOskFcT7m7neh?from=from_copylink)
 
 ## 效果示例
-![49a8163c9674eb3ecc0d2e143294a1b](https://github.com/user-attachments/assets/b61b49c8-5b57-49b1-833b-3938fd3b4d75)
+![image](https://github.com/user-attachments/assets/9c84ae93-24b0-49ff-b652-18db4ad8cf76)
+
 
 ## 交流群
 ![image](https://github.com/user-attachments/assets/68cd30dd-aa7b-4e69-a75e-de00c0621b2e)
