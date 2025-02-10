@@ -19,4 +19,6 @@
 
 
 ## 交流群
-![image](https://github.com/user-attachments/assets/68cd30dd-aa7b-4e69-a75e-de00c0621b2e)
+群已满200人，加下面企微后发送 deepseek 会自动邀请进群
+![798c561ad1d9fe52b8d4040bf1c37d7](https://github.com/user-attachments/assets/9609fa69-3590-4911-bd30-5c20717c827b)
+
